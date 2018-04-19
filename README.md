@@ -1,7 +1,7 @@
 # Angular5-EmployeeDetails
 
 
-Features ---
+**Features** ---
 
 
 1.Component styling
@@ -14,7 +14,7 @@ Features ---
 
 
 
-How to start ---
+**How to start** ---
 
 
 1.Install NodeJS (> v4) and NPM (> v3) from https://nodejs.org/en/download/, you can check the versions you have installed by running node -v and npm -v from the command line.
