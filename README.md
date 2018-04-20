@@ -1,26 +1,27 @@
-# Angular5-EmployeeDetails
+# DemoApplication
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
-**Features** ---
+## Development server
 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-1.Component styling
+## Code scaffolding
 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-2.Simple Angular Directive used for listing items 
+## Build
 
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-3.Router module (implementing child routes*)
+## Running unit tests
 
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
+## Running end-to-end tests
 
-**How to start** ---
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+## Further help
 
-1.Install NodeJS (> v4) and NPM (> v3) from https://nodejs.org/en/download/, you can check the versions you have installed by running node -v and npm -v from the command line.
-
-
-2.Install all required npm packages by running **npm install** from the command line in the project root folder (where the package.json is located).
-
-
-3.Start the application by running **npm serve** from the command line in the project root folder.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
